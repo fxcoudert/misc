@@ -1,0 +1,27 @@
+Marseille	3001
+Amiens	1021
+Besançon	967
+Bordeaux	2765
+Caen	1049
+Clermont-Ferrand	1218
+Créteil	2964
+Dijon	974
+Grenoble	2555
+Lille	3665
+Limoges	614
+Lyon	3747
+Montpellier	2255
+Metz	2334
+Nantes	2321
+Nice	1331
+Orléans	1609
+Paris	8961
+Poitiers	1306
+Reims	946
+Rennes	2685
+Rouen	1262
+Strasbourg	2090
+Toulouse	3168
+Versailles	3795
+#
+# Source: Note d'information DGRH relative aux personnels enseignants du supérieur pour l'année universitaire 2012-2013
